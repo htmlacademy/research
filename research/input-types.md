@@ -35,6 +35,7 @@
 | `number`   | 1965 |
 | `file`     | 909 |
 | `datetime` | 378 |
+| `date`     | 319 |
 | `image`    | 245 |
 | `url`      | 198 |
 | `range`    | 121 |
